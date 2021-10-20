@@ -7,7 +7,7 @@ public class HealthSystem {
      Jugador Jprincipal = new Jugador("star", 15);
      Zombie zombito = new Zombie("Brain", 500);
      Botiquin boti = new Botiquin(15,false);
-      
+     //esto es un comentario 
    
      System.out.println("Sistema de Salud (Healthsystem)\n");
 
